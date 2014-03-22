@@ -1,0 +1,41 @@
+---
+layout: nil
+---
+
+/* 
+ * =============================================================================
+ * Siteye özel Baz CSS
+ * =============================================================================
+ */
+body {
+background-color: none;
+background-image:url('../chrome/renkli.jpg');
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+
+
+
+#bil{
+position:absolute; top:225px;left:400px}
+#kedi{
+right:-80px;
+top:295px;
+
+position:fixed}
+
+
+
+.takvim{
+position:absolute; top:480px;left:890px}
+
+a.deneme{
+position:absolute; top:262px;left:525px}
+
+.deneme2{
+position:absolute; top:262px;left:625px}
+
+a.deneme3{
+position:absolute; top:262px;left:793px}
+

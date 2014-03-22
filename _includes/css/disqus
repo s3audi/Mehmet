@@ -1,0 +1,4 @@
+/* DISQUS style */
+.dsq-by { display: !important; }
+.dsq-dc-logo { display: !important; }
+.dsq-logo-dropdown { display: !important; }
